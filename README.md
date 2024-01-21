@@ -11,13 +11,13 @@ Most of prompts I colleted from [here](https://x.com/dotey/status/17228311222859
 
 <p align="center">
 <a target="_blank" href="https://www.gptsapp.io/?utm_source=leaked_gpts">
-<img alt="GPTsHunter" src="[https://gptshunter.com/full-logo.svg](https://assets.gptsapp.io/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--67f3be5ed89f87efd8f42bf90e0ec601724582a1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJME1IZ3lOREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--271f8d4b7f1b654f6d4317d632850f067931ba17/GPTs-App-Store.png)" width="300">
+<img alt="GPTsHunter" src="https://assets.gptsapp.io/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBKQT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--67f3be5ed89f87efd8f42bf90e0ec601724582a1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2QzNKbGMybDZaVWtpRFRJME1IZ3lOREErQmpzR1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--271f8d4b7f1b654f6d4317d632850f067931ba17/GPTs-App-Store.png" width="300">
 </a>
 </p>
 
 
 
-- [gptshunter](https://gptshunter.com/?utm_source=leaked_gpts) Find userful GPTs here.
+- [gptshunter](https://www.gptsapp.io/?utm_source=leaked_gpts) Explore userful GPTs here.
 
 ## Leaked Prompts of GPTs
 - [DevRel Guide](./prompts/devrelguide.md) by Rohit Ghumare
